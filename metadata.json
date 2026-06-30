@@ -1,0 +1,6 @@
+{
+  "name": "Flying Booger",
+  "description": "The official website for FLYING BOOGER, the loudest punk rock band on Earth. Tour dates, merchandise, music player, and exclusive backstage universe access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
